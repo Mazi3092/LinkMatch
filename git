@@ -1,0 +1,12 @@
+git -v
+git new gitignore
+git init
+git status
+git add .
+git commit -m "my commit"
+git log
+git remote add origin 'https://github.com/Mazi3092/LinkMatch'
+git remote rm origin #remote - למחיקת ה
+git branch -M main
+git branch --show-current
+git push origin main
